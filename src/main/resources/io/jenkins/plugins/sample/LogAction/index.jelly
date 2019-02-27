@@ -1,0 +1,19 @@
+<?jelly escape-by-default='false'?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g2="null" xmlns:l="/lib/layout" xmlns:st="jelly:stapler">
+    <l:layout title="Build Log"> 
+        <l:main-panel> 
+       <html>
+       <head>
+         <title>Build Log</title>
+       </head>
+       <body >
+         <h1 text="#000000">Build Log</h1>
+        <p style="color:#4e4f51;font-size:16px;">${it.name}</p>
+       </body>
+     </html>
+
+
+        </l:main-panel>
+    </l:layout>
+</j:jelly>
+

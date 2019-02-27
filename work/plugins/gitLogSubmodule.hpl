@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: gitLogSubmodule
+Long-Name: GitLogSubmodule Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-02/27/2019 09:49-djbabs)
+Hudson-Version: 2.7.3
+Jenkins-Version: 2.7.3
+Plugin-Dependencies: structs:1.7
+Plugin-Developers: 
+Libraries: /home/djbabs/Documents/Projects/demo-plugin/gitlog-submodul
+ e/src/main/resources,/home/djbabs/Documents/Projects/demo-plugin/gitl
+ og-submodule/target/classes
+Resource-Path: /home/djbabs/Documents/Projects/demo-plugin/gitlog-subm
+ odule/src/main/webapp
+
